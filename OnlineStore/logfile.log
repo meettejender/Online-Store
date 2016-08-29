@@ -1415,3 +1415,308 @@ Session ID: 7435a2e43c93e2e2625c0be9e9aab011
 2016-08-28 17:13:44,821 INFO  [Log] X 
 2016-08-28 17:13:44,821 INFO  [Log] X 
 2016-08-28 17:13:44,821 INFO  [Log] X 
+2016-08-29 10:25:16,023 INFO  [Log] **************************************************************************************** 
+2016-08-29 10:25:16,023 INFO  [Log] **************************************************************************************** 
+2016-08-29 10:25:16,023 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-08-29 10:25:16,023 INFO  [Log] **************************************************************************************** 
+2016-08-29 10:25:16,023 INFO  [Log] **************************************************************************************** 
+2016-08-29 10:25:16,429 INFO  [Log] Excel sheet opened 
+2016-08-29 10:25:16,430 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-08-29 10:25:18,827 INFO  [Log] New driver instantiated 
+2016-08-29 10:25:18,831 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-08-29 10:25:24,140 INFO  [Log] Web application launched successfully 
+2016-08-29 10:25:24,189 INFO  [Log] My Account link is found on the Home Page 
+2016-08-29 10:25:26,425 INFO  [Log] Click action is perfromed on My Account link 
+2016-08-29 10:25:26,480 INFO  [Log] Username text box is found on the Login Page 
+2016-08-29 10:25:26,527 INFO  [Log] barkatpura is entered in UserName text box 
+2016-08-29 10:25:26,544 INFO  [Log] Password text box is found on the Login page 
+2016-08-29 10:25:26,588 INFO  [Log] kachiguda123 is entered in Password text box 
+2016-08-29 10:25:26,605 INFO  [Log] Submit button is found on the Login page 
+2016-08-29 10:25:26,644 INFO  [Log] Click action is performed on Submit button 
+2016-08-29 10:25:30,180 INFO  [Log] Log Out link is found on the Home Page 
+2016-08-29 10:25:30,251 INFO  [Log] Product category link is found under Top Navigation 
+2016-08-29 10:25:30,380 INFO  [Log] Accessories link is found under Product Category 
+2016-08-29 10:25:33,262 INFO  [Log] Click action is performed on the selected Product Type 
+2016-08-29 10:25:33,262 INFO  [Log] Product Type Accessories is selected from the Top menu 
+2016-08-29 10:25:33,318 INFO  [Log] Add to Cart button is found for Product 2 
+2016-08-29 10:25:33,371 INFO  [Log] Product 2 is selected from the Product listing page 
+2016-08-29 10:25:34,272 INFO  [Log] Go to Cart button is found on the Cart Pop Up window 
+2016-08-29 10:25:37,046 INFO  [Log] Product Name for purchased product is found on the Check Out Page 
+2016-08-29 10:25:37,086 INFO  [Log] Product Price for purchased product is found on the Check Out Page 
+2016-08-29 10:25:37,126 INFO  [Log] Continue button is found on the Check Out Page 
+2016-08-29 10:25:38,205 INFO  [Log] Email text box on Payment Details page is found. 
+2016-08-29 10:25:38,242 INFO  [Log] Email text box on Payment Details page is found. 
+2016-08-29 10:25:38,305 INFO  [Log] tooolsqa@gmail.com is entered as First Name on the Payment detail page 
+2016-08-29 10:25:38,354 INFO  [Log] First Name text box on Payment Details page is found. 
+2016-08-29 10:25:38,392 INFO  [Log] First Name text box on Payment Details page is found. 
+2016-08-29 10:25:38,434 INFO  [Log] Lakshay is entered as First Name on the Payment detail page 
+2016-08-29 10:25:38,455 INFO  [Log] Last Name text box on Payment Details page is found. 
+2016-08-29 10:25:38,490 INFO  [Log] Last Name text box on Payment Details page is found. 
+2016-08-29 10:25:38,532 INFO  [Log] Sharma is entered as Last Name on the Payment detail page 
+2016-08-29 10:25:38,552 INFO  [Log] Address text box on Payment Details page is found. 
+2016-08-29 10:25:38,590 INFO  [Log] Address text box on Payment Details page is found. 
+2016-08-29 10:25:38,651 INFO  [Log] 35, Marconi House, Walker Road is entered as Address on the Payment detail page 
+2016-08-29 10:25:38,669 INFO  [Log] City text box on Payment Details page is found. 
+2016-08-29 10:25:38,704 INFO  [Log] City text box on Payment Details page is found. 
+2016-08-29 10:25:38,747 INFO  [Log] Newcastle is entered as City on the Payment detail page 
+2016-08-29 10:25:38,777 INFO  [Log] Country dropdown on Payment Details page is found. 
+2016-08-29 10:25:38,805 INFO  [Log] United Kingdom is Selected as Country on the Payment detail page 
+2016-08-29 10:25:38,820 INFO  [Log] Phone text box on Payment Details page is found. 
+2016-08-29 10:25:38,850 INFO  [Log] Phone text box on Payment Details page is found. 
+2016-08-29 10:25:38,892 INFO  [Log] 07777777777 is entered as Phone on the Payment detail page 
+2016-08-29 10:25:38,913 INFO  [Log] Same as Billing address check box on Payment Details page is found. 
+2016-08-29 10:25:38,929 INFO  [Log] Same as Billing address check box on Payment Details page is found. 
+2016-08-29 10:25:38,970 INFO  [Log] Same as Billing address check box is selected on the Payment detail page 
+2016-08-29 10:25:38,990 INFO  [Log] Purchase button on Payment Details page is found. 
+2016-08-29 10:25:50,747 INFO  [Log] Click action is performed on Purchase button on the Payment detail page 
+2016-08-29 10:25:50,781 INFO  [Log] Product name is found on the Confirmation Page 
+2016-08-29 10:25:50,818 INFO  [Log] Product price is found on the Confirmation Page 
+2016-08-29 10:25:51,948 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-08-29 10:25:51,948 INFO  [Log] X 
+2016-08-29 10:25:51,948 INFO  [Log] X 
+2016-08-29 10:25:51,948 INFO  [Log] X 
+2016-08-29 10:25:51,948 INFO  [Log] X 
+2016-08-29 10:26:30,617 INFO  [Log] **************************************************************************************** 
+2016-08-29 10:26:30,617 INFO  [Log] **************************************************************************************** 
+2016-08-29 10:26:30,617 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-08-29 10:26:30,618 INFO  [Log] **************************************************************************************** 
+2016-08-29 10:26:30,618 INFO  [Log] **************************************************************************************** 
+2016-08-29 10:26:30,999 INFO  [Log] Excel sheet opened 
+2016-08-29 10:26:30,999 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-08-29 10:26:34,140 INFO  [Log] New driver instantiated 
+2016-08-29 10:26:34,144 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-08-29 10:26:38,907 INFO  [Log] Web application launched successfully 
+2016-08-29 10:26:38,958 INFO  [Log] My Account link is found on the Home Page 
+2016-08-29 10:26:40,945 INFO  [Log] Click action is perfromed on My Account link 
+2016-08-29 10:26:40,978 INFO  [Log] Username text box is found on the Login Page 
+2016-08-29 10:26:41,031 INFO  [Log] barkatpura is entered in UserName text box 
+2016-08-29 10:26:41,048 INFO  [Log] Password text box is found on the Login page 
+2016-08-29 10:26:41,090 INFO  [Log] kachiguda123 is entered in Password text box 
+2016-08-29 10:26:41,106 INFO  [Log] Submit button is found on the Login page 
+2016-08-29 10:26:41,145 INFO  [Log] Click action is performed on Submit button 
+2016-08-29 10:26:46,266 INFO  [Log] Log Out link is found on the Home Page 
+2016-08-29 10:26:46,350 INFO  [Log] Product category link is found under Top Navigation 
+2016-08-29 10:26:46,488 INFO  [Log] Accessories link is found under Product Category 
+2016-08-29 10:26:49,433 INFO  [Log] Click action is performed on the selected Product Type 
+2016-08-29 10:26:49,434 INFO  [Log] Product Type Accessories is selected from the Top menu 
+2016-08-29 10:26:49,475 INFO  [Log] Add to Cart button is found for Product 2 
+2016-08-29 10:26:49,525 INFO  [Log] Product 2 is selected from the Product listing page 
+2016-08-29 10:26:50,475 INFO  [Log] Go to Cart button is found on the Cart Pop Up window 
+2016-08-29 10:26:53,980 INFO  [Log] Product Name for purchased product is found on the Check Out Page 
+2016-08-29 10:26:54,021 INFO  [Log] Product Price for purchased product is found on the Check Out Page 
+2016-08-29 10:26:54,060 INFO  [Log] Continue button is found on the Check Out Page 
+2016-08-29 10:26:55,139 INFO  [Log] Email text box on Payment Details page is found. 
+2016-08-29 10:26:55,181 INFO  [Log] Email text box on Payment Details page is found. 
+2016-08-29 10:26:55,250 INFO  [Log] tooolsqa@gmail.com is entered as First Name on the Payment detail page 
+2016-08-29 10:26:55,289 INFO  [Log] First Name text box on Payment Details page is found. 
+2016-08-29 10:26:55,325 INFO  [Log] First Name text box on Payment Details page is found. 
+2016-08-29 10:26:55,367 INFO  [Log] Lakshay is entered as First Name on the Payment detail page 
+2016-08-29 10:26:55,389 INFO  [Log] Last Name text box on Payment Details page is found. 
+2016-08-29 10:26:55,422 INFO  [Log] Last Name text box on Payment Details page is found. 
+2016-08-29 10:26:55,465 INFO  [Log] Sharma is entered as Last Name on the Payment detail page 
+2016-08-29 10:26:55,485 INFO  [Log] Address text box on Payment Details page is found. 
+2016-08-29 10:26:55,523 INFO  [Log] Address text box on Payment Details page is found. 
+2016-08-29 10:26:55,585 INFO  [Log] 35, Marconi House, Walker Road is entered as Address on the Payment detail page 
+2016-08-29 10:26:55,603 INFO  [Log] City text box on Payment Details page is found. 
+2016-08-29 10:26:55,639 INFO  [Log] City text box on Payment Details page is found. 
+2016-08-29 10:26:55,681 INFO  [Log] Newcastle is entered as City on the Payment detail page 
+2016-08-29 10:26:55,712 INFO  [Log] Country dropdown on Payment Details page is found. 
+2016-08-29 10:26:55,740 INFO  [Log] United Kingdom is Selected as Country on the Payment detail page 
+2016-08-29 10:26:55,756 INFO  [Log] Phone text box on Payment Details page is found. 
+2016-08-29 10:26:55,788 INFO  [Log] Phone text box on Payment Details page is found. 
+2016-08-29 10:26:55,830 INFO  [Log] 07777777777 is entered as Phone on the Payment detail page 
+2016-08-29 10:26:55,850 INFO  [Log] Same as Billing address check box on Payment Details page is found. 
+2016-08-29 10:26:55,864 INFO  [Log] Same as Billing address check box on Payment Details page is found. 
+2016-08-29 10:26:55,903 INFO  [Log] Same as Billing address check box is selected on the Payment detail page 
+2016-08-29 10:26:55,922 INFO  [Log] Purchase button on Payment Details page is found. 
+2016-08-29 10:27:09,728 INFO  [Log] Click action is performed on Purchase button on the Payment detail page 
+2016-08-29 10:27:09,765 INFO  [Log] Product name is found on the Confirmation Page 
+2016-08-29 10:27:09,801 INFO  [Log] Product price is found on the Confirmation Page 
+2016-08-29 10:27:10,923 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-08-29 10:27:10,924 INFO  [Log] X 
+2016-08-29 10:27:10,924 INFO  [Log] X 
+2016-08-29 10:27:10,924 INFO  [Log] X 
+2016-08-29 10:27:10,924 INFO  [Log] X 
+2016-08-29 10:29:14,604 INFO  [Log] **************************************************************************************** 
+2016-08-29 10:29:14,604 INFO  [Log] **************************************************************************************** 
+2016-08-29 10:29:14,604 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-08-29 10:29:14,604 INFO  [Log] **************************************************************************************** 
+2016-08-29 10:29:14,604 INFO  [Log] **************************************************************************************** 
+2016-08-29 10:29:15,065 INFO  [Log] Excel sheet opened 
+2016-08-29 10:29:15,065 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-08-29 10:29:17,855 INFO  [Log] New driver instantiated 
+2016-08-29 10:29:17,859 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-08-29 10:29:23,311 INFO  [Log] Web application launched successfully 
+2016-08-29 10:29:23,371 INFO  [Log] My Account link is found on the Home Page 
+2016-08-29 10:29:25,005 INFO  [Log] Click action is perfromed on My Account link 
+2016-08-29 10:29:25,049 INFO  [Log] Username text box is found on the Login Page 
+2016-08-29 10:29:25,090 INFO  [Log] barkatpura is entered in UserName text box 
+2016-08-29 10:29:25,107 INFO  [Log] Password text box is found on the Login page 
+2016-08-29 10:29:25,150 INFO  [Log] kachiguda123 is entered in Password text box 
+2016-08-29 10:29:25,167 INFO  [Log] Submit button is found on the Login page 
+2016-08-29 10:29:25,205 INFO  [Log] Click action is performed on Submit button 
+2016-08-29 10:29:29,110 INFO  [Log] Log Out link is found on the Home Page 
+2016-08-29 10:29:29,192 INFO  [Log] Product category link is found under Top Navigation 
+2016-08-29 10:29:29,330 INFO  [Log] Accessories link is found under Product Category 
+2016-08-29 10:29:32,342 INFO  [Log] Click action is performed on the selected Product Type 
+2016-08-29 10:29:32,342 INFO  [Log] Product Type Accessories is selected from the Top menu 
+2016-08-29 10:29:32,381 INFO  [Log] Add to Cart button is found for Product 2 
+2016-08-29 10:29:32,429 INFO  [Log] Product 2 is selected from the Product listing page 
+2016-08-29 10:29:33,308 INFO  [Log] Go to Cart button is found on the Cart Pop Up window 
+2016-08-29 10:29:35,943 INFO  [Log] Product Name for purchased product is found on the Check Out Page 
+2016-08-29 10:29:35,982 INFO  [Log] Product Price for purchased product is found on the Check Out Page 
+2016-08-29 10:29:36,022 INFO  [Log] Continue button is found on the Check Out Page 
+2016-08-29 10:29:37,100 INFO  [Log] Email text box on Payment Details page is found. 
+2016-08-29 10:29:37,137 INFO  [Log] Email text box on Payment Details page is found. 
+2016-08-29 10:29:37,197 INFO  [Log] tooolsqa@gmail.com is entered as First Name on the Payment detail page 
+2016-08-29 10:29:37,235 INFO  [Log] First Name text box on Payment Details page is found. 
+2016-08-29 10:29:37,274 INFO  [Log] First Name text box on Payment Details page is found. 
+2016-08-29 10:29:37,318 INFO  [Log] Lakshay is entered as First Name on the Payment detail page 
+2016-08-29 10:29:37,337 INFO  [Log] Last Name text box on Payment Details page is found. 
+2016-08-29 10:29:37,372 INFO  [Log] Last Name text box on Payment Details page is found. 
+2016-08-29 10:29:37,419 INFO  [Log] Sharma is entered as Last Name on the Payment detail page 
+2016-08-29 10:29:37,438 INFO  [Log] Address text box on Payment Details page is found. 
+2016-08-29 10:29:37,474 INFO  [Log] Address text box on Payment Details page is found. 
+2016-08-29 10:29:37,539 INFO  [Log] 35, Marconi House, Walker Road is entered as Address on the Payment detail page 
+2016-08-29 10:29:37,557 INFO  [Log] City text box on Payment Details page is found. 
+2016-08-29 10:29:37,591 INFO  [Log] City text box on Payment Details page is found. 
+2016-08-29 10:29:37,636 INFO  [Log] Newcastle is entered as City on the Payment detail page 
+2016-08-29 10:29:37,669 INFO  [Log] Country dropdown on Payment Details page is found. 
+2016-08-29 10:29:37,696 INFO  [Log] United Kingdom is Selected as Country on the Payment detail page 
+2016-08-29 10:29:37,715 INFO  [Log] Phone text box on Payment Details page is found. 
+2016-08-29 10:29:37,747 INFO  [Log] Phone text box on Payment Details page is found. 
+2016-08-29 10:29:37,788 INFO  [Log] 07777777777 is entered as Phone on the Payment detail page 
+2016-08-29 10:29:37,809 INFO  [Log] Same as Billing address check box on Payment Details page is found. 
+2016-08-29 10:29:37,824 INFO  [Log] Same as Billing address check box on Payment Details page is found. 
+2016-08-29 10:29:37,866 INFO  [Log] Same as Billing address check box is selected on the Payment detail page 
+2016-08-29 10:29:37,886 INFO  [Log] Purchase button on Payment Details page is found. 
+2016-08-29 10:29:53,802 INFO  [Log] Click action is performed on Purchase button on the Payment detail page 
+2016-08-29 10:29:53,838 INFO  [Log] Product name is found on the Confirmation Page 
+2016-08-29 10:29:53,875 INFO  [Log] Product price is found on the Confirmation Page 
+2016-08-29 10:29:55,003 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-08-29 10:29:55,003 INFO  [Log] X 
+2016-08-29 10:29:55,003 INFO  [Log] X 
+2016-08-29 10:29:55,003 INFO  [Log] X 
+2016-08-29 10:29:55,003 INFO  [Log] X 
+2016-08-29 13:28:15,393 INFO  [Log] **************************************************************************************** 
+2016-08-29 13:28:15,407 INFO  [Log] **************************************************************************************** 
+2016-08-29 13:28:15,407 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-08-29 13:28:15,407 INFO  [Log] **************************************************************************************** 
+2016-08-29 13:28:15,407 INFO  [Log] **************************************************************************************** 
+2016-08-29 13:28:15,799 INFO  [Log] Excel sheet opened 
+2016-08-29 13:28:15,799 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-08-29 13:28:18,690 INFO  [Log] New driver instantiated 
+2016-08-29 13:28:18,694 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-08-29 13:28:24,028 INFO  [Log] Web application launched successfully 
+2016-08-29 13:28:24,064 INFO  [Log] My Account link is found on the Home Page 
+2016-08-29 13:28:25,842 INFO  [Log] Click action is perfromed on My Account link 
+2016-08-29 13:28:25,864 INFO  [Log] Username text box is found on the Login Page 
+2016-08-29 13:28:25,905 INFO  [Log] barkatpura is entered in UserName text box 
+2016-08-29 13:28:25,923 INFO  [Log] Password text box is found on the Login page 
+2016-08-29 13:28:25,966 INFO  [Log] kachiguda123 is entered in Password text box 
+2016-08-29 13:28:25,983 INFO  [Log] Submit button is found on the Login page 
+2016-08-29 13:28:26,022 INFO  [Log] Click action is performed on Submit button 
+2016-08-29 13:28:29,544 INFO  [Log] Log Out link is found on the Home Page 
+2016-08-29 13:28:29,603 INFO  [Log] Product category link is found under Top Navigation 
+2016-08-29 13:28:29,744 INFO  [Log] Accessories link is found under Product Category 
+2016-08-29 13:28:32,664 INFO  [Log] Click action is performed on the selected Product Type 
+2016-08-29 13:28:32,664 INFO  [Log] Product Type Accessories is selected from the Top menu 
+2016-08-29 13:28:32,700 INFO  [Log] Add to Cart button is found for Product 2 
+2016-08-29 13:28:32,749 INFO  [Log] Product 2 is selected from the Product listing page 
+2016-08-29 13:28:34,362 INFO  [Log] Go to Cart button is found on the Cart Pop Up window 
+2016-08-29 13:28:36,678 INFO  [Log] Product Name for purchased product is found on the Check Out Page 
+2016-08-29 13:28:36,717 INFO  [Log] Product Price for purchased product is found on the Check Out Page 
+2016-08-29 13:28:36,758 INFO  [Log] Continue button is found on the Check Out Page 
+2016-08-29 13:28:37,837 INFO  [Log] Email text box on Payment Details page is found. 
+2016-08-29 13:28:37,874 INFO  [Log] Email text box on Payment Details page is found. 
+2016-08-29 13:28:37,936 INFO  [Log] tooolsqa@gmail.com is entered as First Name on the Payment detail page 
+2016-08-29 13:28:37,973 INFO  [Log] First Name text box on Payment Details page is found. 
+2016-08-29 13:28:38,009 INFO  [Log] First Name text box on Payment Details page is found. 
+2016-08-29 13:28:38,055 INFO  [Log] Lakshay is entered as First Name on the Payment detail page 
+2016-08-29 13:28:38,074 INFO  [Log] Last Name text box on Payment Details page is found. 
+2016-08-29 13:28:38,112 INFO  [Log] Last Name text box on Payment Details page is found. 
+2016-08-29 13:28:38,155 INFO  [Log] Sharma is entered as Last Name on the Payment detail page 
+2016-08-29 13:28:38,174 INFO  [Log] Address text box on Payment Details page is found. 
+2016-08-29 13:28:38,207 INFO  [Log] Address text box on Payment Details page is found. 
+2016-08-29 13:28:38,280 INFO  [Log] 35, Marconi House, Walker Road is entered as Address on the Payment detail page 
+2016-08-29 13:28:38,299 INFO  [Log] City text box on Payment Details page is found. 
+2016-08-29 13:28:38,331 INFO  [Log] City text box on Payment Details page is found. 
+2016-08-29 13:28:38,377 INFO  [Log] Newcastle is entered as City on the Payment detail page 
+2016-08-29 13:28:38,415 INFO  [Log] Country dropdown on Payment Details page is found. 
+2016-08-29 13:28:38,443 INFO  [Log] United Kingdom is Selected as Country on the Payment detail page 
+2016-08-29 13:28:38,459 INFO  [Log] Phone text box on Payment Details page is found. 
+2016-08-29 13:28:38,493 INFO  [Log] Phone text box on Payment Details page is found. 
+2016-08-29 13:28:38,539 INFO  [Log] 07777777777 is entered as Phone on the Payment detail page 
+2016-08-29 13:28:38,556 INFO  [Log] Same as Billing address check box on Payment Details page is found. 
+2016-08-29 13:28:38,570 INFO  [Log] Same as Billing address check box on Payment Details page is found. 
+2016-08-29 13:28:38,611 INFO  [Log] Same as Billing address check box is selected on the Payment detail page 
+2016-08-29 13:28:38,632 INFO  [Log] Purchase button on Payment Details page is found. 
+2016-08-29 13:28:49,475 INFO  [Log] Click action is performed on Purchase button on the Payment detail page 
+2016-08-29 13:28:49,500 INFO  [Log] Product name is found on the Confirmation Page 
+2016-08-29 13:28:49,539 INFO  [Log] Product price is found on the Confirmation Page 
+2016-08-29 13:28:50,662 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-08-29 13:28:50,662 INFO  [Log] X 
+2016-08-29 13:28:50,662 INFO  [Log] X 
+2016-08-29 13:28:50,662 INFO  [Log] X 
+2016-08-29 13:28:50,662 INFO  [Log] X 
+2016-08-29 13:31:48,152 INFO  [Log] **************************************************************************************** 
+2016-08-29 13:31:48,152 INFO  [Log] **************************************************************************************** 
+2016-08-29 13:31:48,152 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-08-29 13:31:48,152 INFO  [Log] **************************************************************************************** 
+2016-08-29 13:31:48,152 INFO  [Log] **************************************************************************************** 
+2016-08-29 13:31:48,605 INFO  [Log] Excel sheet opened 
+2016-08-29 13:31:48,605 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-08-29 13:31:51,540 INFO  [Log] New driver instantiated 
+2016-08-29 13:31:51,544 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-08-29 13:31:57,414 INFO  [Log] Web application launched successfully 
+2016-08-29 13:31:57,483 INFO  [Log] My Account link is found on the Home Page 
+2016-08-29 13:31:59,227 INFO  [Log] Click action is perfromed on My Account link 
+2016-08-29 13:31:59,247 INFO  [Log] Username text box is found on the Login Page 
+2016-08-29 13:31:59,288 INFO  [Log] barkatpura is entered in UserName text box 
+2016-08-29 13:31:59,305 INFO  [Log] Password text box is found on the Login page 
+2016-08-29 13:31:59,347 INFO  [Log] kachiguda123 is entered in Password text box 
+2016-08-29 13:31:59,364 INFO  [Log] Submit button is found on the Login page 
+2016-08-29 13:31:59,402 INFO  [Log] Click action is performed on Submit button 
+2016-08-29 13:32:03,076 INFO  [Log] Log Out link is found on the Home Page 
+2016-08-29 13:32:03,136 INFO  [Log] Product category link is found under Top Navigation 
+2016-08-29 13:32:03,276 INFO  [Log] Accessories link is found under Product Category 
+2016-08-29 13:32:06,542 INFO  [Log] Click action is performed on the selected Product Type 
+2016-08-29 13:32:06,542 INFO  [Log] Product Type Accessories is selected from the Top menu 
+2016-08-29 13:32:06,563 INFO  [Log] Add to Cart button is found for Product 2 
+2016-08-29 13:32:06,613 INFO  [Log] Product 2 is selected from the Product listing page 
+2016-08-29 13:32:07,610 INFO  [Log] Go to Cart button is found on the Cart Pop Up window 
+2016-08-29 13:32:10,350 INFO  [Log] Product Name for purchased product is found on the Check Out Page 
+2016-08-29 13:32:10,392 INFO  [Log] Product Price for purchased product is found on the Check Out Page 
+2016-08-29 13:32:10,432 INFO  [Log] Continue button is found on the Check Out Page 
+2016-08-29 13:32:11,494 INFO  [Log] Email text box on Payment Details page is found. 
+2016-08-29 13:32:11,530 INFO  [Log] Email text box on Payment Details page is found. 
+2016-08-29 13:32:11,605 INFO  [Log] tooolsqa@gmail.com is entered as First Name on the Payment detail page 
+2016-08-29 13:32:11,643 INFO  [Log] First Name text box on Payment Details page is found. 
+2016-08-29 13:32:11,681 INFO  [Log] First Name text box on Payment Details page is found. 
+2016-08-29 13:32:11,724 INFO  [Log] Lakshay is entered as First Name on the Payment detail page 
+2016-08-29 13:32:11,746 INFO  [Log] Last Name text box on Payment Details page is found. 
+2016-08-29 13:32:11,781 INFO  [Log] Last Name text box on Payment Details page is found. 
+2016-08-29 13:32:11,823 INFO  [Log] Sharma is entered as Last Name on the Payment detail page 
+2016-08-29 13:32:11,847 INFO  [Log] Address text box on Payment Details page is found. 
+2016-08-29 13:32:11,882 INFO  [Log] Address text box on Payment Details page is found. 
+2016-08-29 13:32:11,951 INFO  [Log] 35, Marconi House, Walker Road is entered as Address on the Payment detail page 
+2016-08-29 13:32:11,970 INFO  [Log] City text box on Payment Details page is found. 
+2016-08-29 13:32:12,003 INFO  [Log] City text box on Payment Details page is found. 
+2016-08-29 13:32:12,045 INFO  [Log] Newcastle is entered as City on the Payment detail page 
+2016-08-29 13:32:12,079 INFO  [Log] Country dropdown on Payment Details page is found. 
+2016-08-29 13:32:12,107 INFO  [Log] United Kingdom is Selected as Country on the Payment detail page 
+2016-08-29 13:32:12,122 INFO  [Log] Phone text box on Payment Details page is found. 
+2016-08-29 13:32:12,154 INFO  [Log] Phone text box on Payment Details page is found. 
+2016-08-29 13:32:12,198 INFO  [Log] 07777777777 is entered as Phone on the Payment detail page 
+2016-08-29 13:32:12,217 INFO  [Log] Same as Billing address check box on Payment Details page is found. 
+2016-08-29 13:32:12,232 INFO  [Log] Same as Billing address check box on Payment Details page is found. 
+2016-08-29 13:32:12,273 INFO  [Log] Same as Billing address check box is selected on the Payment detail page 
+2016-08-29 13:32:12,292 INFO  [Log] Purchase button on Payment Details page is found. 
+2016-08-29 13:32:25,563 INFO  [Log] Click action is performed on Purchase button on the Payment detail page 
+2016-08-29 13:32:25,584 INFO  [Log] Product name is found on the Confirmation Page 
+2016-08-29 13:32:25,621 INFO  [Log] Product price is found on the Confirmation Page 
+2016-08-29 13:32:26,774 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-08-29 13:32:26,774 INFO  [Log] X 
+2016-08-29 13:32:26,774 INFO  [Log] X 
+2016-08-29 13:32:26,774 INFO  [Log] X 
+2016-08-29 13:32:26,774 INFO  [Log] X 
